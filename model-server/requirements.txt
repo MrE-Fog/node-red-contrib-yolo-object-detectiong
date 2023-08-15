@@ -81,5 +81,5 @@ webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.0
 wrapt==1.11.2
-Flask==1.1.2
+Flask==2.2.5
 gevent
